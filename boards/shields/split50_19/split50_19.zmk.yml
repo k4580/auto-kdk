@@ -1,0 +1,14 @@
+
+file_format: "1"
+id: split50_19
+name: split50_19
+type: shield
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble
+siblings:
+  - split50_19_left
+  - split50_19_right
